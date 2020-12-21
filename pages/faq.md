@@ -6,6 +6,8 @@ permalink: /faq/
 order: 6
 ---
 
+## Continuous integration test
+
 ## How do I sign up for the course? ##
 
 There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course. More details on the [completion](/completion) page.
